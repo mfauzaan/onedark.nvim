@@ -29,11 +29,11 @@ return {
 	},
 	darker = {
 		black = "#0e1013",
-		bg0 = "#1f2329",
+		bg0 = "#1d1d1d",
 		bg1 = "#282c34",
 		bg2 = "#30363f",
 		bg3 = "#323641",
-		bg_d = "#181b20",
+		bg_d = "#252526",
 		bg_blue = "#61afef",
 		bg_yellow = "#e8c88c",
 		fg = "#a0a8b7",
